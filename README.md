@@ -1,1 +1,1 @@
-# gustavo_ice-cream
+the official ice-cream pourlor for gustavo's gelatos
